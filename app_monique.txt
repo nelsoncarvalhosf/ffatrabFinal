@@ -1,0 +1,13 @@
+Tipo, quero duas interfaces.
+1 PARA PROFISSIONAL onde terá: 
+- Critérios de diagnóstico para DTM’s
+- Possíveis tratamentos 
+- Plano de tratamento paciente; 
+
+Interface paciente: 
+Ele terá acesso ao plano de tratamento dele, as coisas que ele precisa fazer em cada sabe, tipo: 
+- Tomar medicação 
+- Fazer fisioterapia 
+- aplicar gelo 3x ao dia, 
+- diário de dor 
+E aí o paciente iria dando OK, e o profissionais conseguiria ter acesso ao “resumo” das atividades do paciente sabe
